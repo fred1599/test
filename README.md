@@ -54,6 +54,7 @@ Fichier `launch.json`
         }
     ]
 }
+```
 
 
 Cette configuration vous permet de vous connecter à une application Python en cours d'exécution sur le port 5679 pour le débogage.
